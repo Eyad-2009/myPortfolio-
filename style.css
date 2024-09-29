@@ -1,0 +1,16 @@
+/* style.css */
+
+.logo {
+    text-decoration: none;
+    color: #22464f;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.8em;
+}
+
+
+
+#skills {
+    padding-top: 200px;
+
+}
